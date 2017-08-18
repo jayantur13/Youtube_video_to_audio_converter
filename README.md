@@ -7,7 +7,7 @@ Convert youtube videos to audio files (mp3) by using API and download them.
 # Required API (Application Programming Interface) to convert youtube to mp3 (Audio)
 http://youtubeinmp3.com/api or any other
 
-# Limation
+# Limitation
 Not able to convert videos of longer duration ( more than 5-8 mins,try & check )
 
 # What more can be done ?
