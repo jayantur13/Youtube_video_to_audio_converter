@@ -16,10 +16,8 @@ You can get the metadata of the youtube file by using curl or api of youtube und
 # What will you get ?
 After you enter the correct watch link and press "Search",you will get a download link with the MP3 (audio) file name.
 
-# This content is licensed under Creative Commons Attribution
- You are free to copy and redistribute the material in any medium or format,just put a credit 
- You are free to remix, transform, and build upon the materialfor any purpose, even commercially,just put a credit 
+If I helped you in anyway,then you may rate me.
  
- Regards
- Jayant Navrange
+Regards
+Jayant Navrange
  
